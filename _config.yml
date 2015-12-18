@@ -1,0 +1,28 @@
+name: versial
+favicon: null
+layout_spectrum: 0.6585428733378649
+typography_spectrum: 0.7164747577626258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.07878697966225445
+  lightness: 0.7673199737910181
+  saturation: 0.23703564587049186
+  rhythmicContrast: 0.46368229459039867
+purpose: []
